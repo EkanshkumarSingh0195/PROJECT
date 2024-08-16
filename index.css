@@ -1,0 +1,12 @@
+h1{color: aliceblue;
+    font-size: 5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #121FCF;
+   
+background: linear-gradient(to right, #121FCF 16%, #CF1512 58%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+
+}
+456
